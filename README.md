@@ -12,7 +12,6 @@ The project covers the complete analytics workflow, from data cleaning and explo
 - SQL Business Analysis
 - Data Visualization
 - Interactive Power BI Dashboards
-- Business Insights & Recommendations
 
 ## Tech Stack
 
@@ -37,7 +36,6 @@ The analysis focuses on:
 - Country-wise revenue performance
 - Customer and order KPIs
 - Product revenue contribution
-- Business recommendations based on data-driven findings
 
 ## Python Analysis
 
@@ -66,7 +64,6 @@ SQL was used to:
 - Analyze customer purchasing behavior
 - Identify top-performing products and categories
 - Perform aggregations and grouping
-- Generate business-oriented insights
 
 ## Power BI Dashboards
 
@@ -116,7 +113,6 @@ Highlights important findings and business recommendations.
 - Best-Performing Market
 - Peak Sales Month
 - Revenue Insights
-- Business Recommendations
 - Key Performance Indicators
 
 ## Visualizations
